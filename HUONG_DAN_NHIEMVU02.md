@@ -1,6 +1,6 @@
 # NHIỆM VỤ 02 — Lập trình tính năng Giỏ hàng & Mã giảm giá
 
-**Dự án:** Zip_De003 (E-learning) | **Nguyễn Thế Kiên — PTIT232**
+**Dự án:** elearing_base (E-learning) | **Nguyễn Thế Kiên — PTIT232**
 Package: `com.elearning` | Spring Boot 3.x + Gradle + Java 17
 
 ---
