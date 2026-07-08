@@ -2,7 +2,7 @@
 
 **Sinh viên:** Nguyễn Thế Kiên
 **Mã SV:** PTIT232
-**Dự án:** Zip_De003 — Spring Boot 3.x + Gradle + Java 17
+**Dự án:** elearing_base — Spring Boot 3.x + Gradle + Java 17
 **Package:** `com.elearning`
 
 ---
@@ -20,7 +20,7 @@
 ```
 [Vai trò] Đóng vai Java Backend Mentor chuyên Spring Boot & Gradle.
 
-[Ngữ cảnh] Tôi có một base code hệ thống E-learning (repo Zip_De003), viết
+[Ngữ cảnh] Tôi có một base code hệ thống E-learning (repo elearing_base), viết
 bằng Spring Boot 3.x, build bằng Gradle, package gốc com.elearning. Cấu trúc
 gồm các folder: models, controllers, exceptions, advice, security.
 
