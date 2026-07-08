@@ -1,10 +1,8 @@
-# Zip_De003 — E-learning: Giỏ hàng & Mã giảm giá
+# elearing_base — E-learning: Giỏ hàng & Mã giảm giá
 
 **Sinh viên:** Nguyễn Thế Kiên — PTIT232
 **Stack:** Spring Boot 3.2.5 · Gradle · Java 17 · H2 (in-memory)
 **Package gốc:** `com.elearning`
-
-Dự án hoàn chỉnh — copy nguyên thư mục vào IDE (IntelliJ / Antigravity) và chạy `main` là dùng được ngay, không cần cài database.
 
 ---
 
